@@ -1,6 +1,0 @@
-[submodule "app-osx"]
-	path = ORSSerialPort
-	url = git://github.com/armadsen/ORSSerialPort
-[submodule "ORSSerialPort"]
-	path = ORSSerialPort
-	url = https://github.com/armadsen/ORSSerialPort.git
